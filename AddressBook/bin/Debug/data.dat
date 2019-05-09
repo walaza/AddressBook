@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<AddressData xmlns="http://tempuri.org/AddressData.xsd">
+  <AddressBook>
+    <FullName>bulelani</FullName>
+    <LastName>walaza</LastName>
+    <EmailAddress>bwalaza@gmail.com</EmailAddress>
+    <MobileNumber>0786030795</MobileNumber>
+    <ID>-1</ID>
+  </AddressBook>
+  <AddressBook>
+    <ID>-2</ID>
+  </AddressBook>
+</AddressData>
